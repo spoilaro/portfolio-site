@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+//Variables
+$primary-color: rgb(255, 255, 255);
+$secondary-color: rgb(104, 104, 104);
+$accent-color: rgb(255, 0, 106);
+$background: rgb(255, 255, 255);
+
+@mixin easeInTrans {
+  transition: ease-in 300ms;
+}
