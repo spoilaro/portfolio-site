@@ -1,27 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>My Developer Portfolio</title>
+    <link>https://spoilaro.github.io/portfolio-site/</link>
+    <description>Recent content on My Developer Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://spoilaro.github.io/portfolio-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://example.org/description/</link>
+      <link>https://spoilaro.github.io/portfolio-site/description/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/description/</guid>
-      <description>About me Smart Kind Some info Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate.</description>
+      <guid>https://spoilaro.github.io/portfolio-site/description/</guid>
+      <description>About me Smart Kind Some info </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/programming/</link>
+      <link>https://spoilaro.github.io/portfolio-site/programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/programming/</guid>
-      <description>Programming Skills Most Used Languages Python, TypeScript, Rust and C</description>
+      <guid>https://spoilaro.github.io/portfolio-site/programming/</guid>
+      <description>Programming Skills My programming skills are already quite versatile and I&amp;rsquo;m always ready to learn more.
+Most used languages are:
+Python TypeScript Rust C I&amp;rsquo;m the most familiar with following techs:
+MySQL/MariaDB ElasticSearch Express.js Selenium (with Python) AWS Currently learning/using:
+WebAssembly (My thesis researches using WASM to process audio 🎵) Rust (This language feels like the future&amp;rsquo;s C) Hugo CMS1 (This web site was made with Hugo 😉) CMS = Content Management System&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spoilaro.github.io/portfolio-site/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spoilaro.github.io/portfolio-site/projects/</guid>
+      <description>My Projects Below are a few of my projects that I&amp;rsquo;ve made during my studies or on my free time. Most of these are pure passion projects which I have made because I have wanted to learn some tool, technology or I have wanted test implementing some algorithm.
+Battleship Game (with hunting algorithm) A game of battleship agains AI using hunting algorithm. The game is made in Python is modular in a sense that players can be used to do another things like playing completely another game by creating an interface for the player!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://spoilaro.github.io/portfolio-site/soft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://spoilaro.github.io/portfolio-site/soft/</guid>
+      <description>Soft Skills I&amp;rsquo;m generally quite outwards person and I like to converse with people. I would say that my strong suit is learning new things and helping others to learn the things I&amp;rsquo;ve learned along the way.
+What I would like to improve is my time management. In 2023, I want to incorporate the usage of calendar (yes, calendar 📅) to my workflow to manage time and resources.
+Overall, I have enjoyed working with people in daily basis but I also appreciate the quietness that comes along the profession called software developer.</description>
     </item>
     
   </channel>
