@@ -1,0 +1,6 @@
+[submodule "hugo-theme-shell"]
+	path = hugo-theme-shell
+	url = https://github.com/Yukuro/hugo-theme-shell.git
+[submodule "themes/yukuro"]
+	path = themes/yukuro
+	url = https://github.com/Yukuro/hugo-theme-shell.git
