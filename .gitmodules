@@ -1,3 +1,0 @@
-[submodule "themes/shell_theme"]
-	path = themes/shell_theme
-	url = git@github.com:Yukuro/hugo-theme-shell.git
